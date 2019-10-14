@@ -39,10 +39,10 @@ Skills
   * Python
   * ArcGIS / QGIS
   * Tableau
-* Data Cleaning:
-  * Data validation
+* Data Management:
+  * Data validation and cleaning
   * Wrangling large datasets
-  * Aggregation
+  * Aggregating 
 * Project management:
   * Gathering intake requirements
   * Report writing
