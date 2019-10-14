@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -42,8 +42,9 @@ Skills
 * Data Cleaning:
   * Data validation
   * Wrangling large datasets
+  * Aggregation
 * Project management:
-  * Intake requirement gathering
+  * Gathering intake requirements
   * Report writing
   * Thorough documentation of processes
  
