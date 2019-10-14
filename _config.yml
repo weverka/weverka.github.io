@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aiko Weverka / Site Title"
+title                    : "Aiko Weverka"
 title_separator          : "-"
 name                     : &name "Aiko Weverka"
 description              : &description "Data Analytics Enthusiast"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aiko Weverka"
   avatar           : "profile.png"
-  bio              : "Testing 123"
+  bio              : "I like teasing the stories out of large datasets to inform decision making. Previous work experience in healthcare, academic research, and spatial analysis."
   location         : "Sacramento, California"
   employer         :
   pubmed           : 
