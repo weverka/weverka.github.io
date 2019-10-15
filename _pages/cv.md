@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* July 2017 - February 2019: Data Analyst / Analytics Team Lead
+* July 2017 - February 2019: Data Analyst, Analytics Team Lead
   * University of Kentucky, Center for Health Services Research
   * Duties included: 
   * Supervisor: Dan Cleland
