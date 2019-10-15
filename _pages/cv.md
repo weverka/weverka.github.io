@@ -18,7 +18,7 @@ Work experience
 ======
 * July 2017 - February 2019: Data Analyst, Analytics Team Lead
   * University of Kentucky, Center for Health Services Research
-  * Duties included: 
+  * Duties included:
   * Supervisor: Dan Cleland
 
 * May 2017 - March 2018 2015: Research Technician (part-time)
@@ -40,9 +40,8 @@ Skills
   * ArcGIS / QGIS
   * Tableau
 * Data Management:
-  * Data validation and cleaning
-  * Wrangling large datasets
-  * Aggregating 
+  * Data cleaning and validation
+  * Extracting, joining, and aggregating complex datasets  
 * Project management:
   * Gathering intake requirements
   * Report writing
