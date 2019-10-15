@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.A. in Conservation Biology, Middlebury College, 2009
-* M.S. in Natural Resources, University of Vermont, 2012
-
 Work experience
 ======
 * July 2017 - February 2019: Data Analyst, Analytics Team Lead
@@ -47,6 +42,10 @@ Skills
   * Report writing
   * Thorough documentation of processes
  
+Education
+======
+* B.A. in Conservation Biology, Middlebury College, 2009
+* M.S. in Natural Resources, University of Vermont, 2012
 
 Publications
 ======
