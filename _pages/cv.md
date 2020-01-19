@@ -12,18 +12,18 @@ redirect_from:
 Work experience
 ======
 * July 2017 - February 2019: Data Analyst, Analytics Team Lead
-  * University of Kentucky, Center for Health Services Research
-  * Duties included:
+  * University of Kentucky HealthCare, Center for Health Services Research
+  * Duties: I was responsible for extracting data and creating dashboards and research datasets in support of internal quality improvement projects as well as supporting data collection and distribution needs for externally funded research projects.
   * Supervisor: Dan Cleland
 
 * May 2017 - March 2018 2015: Research Technician (part-time)
   * San Francisco State University, Department of Health Education
-  * Duties included: 
+  * Duties: I joined complex datasets and extracted relevant information, adapted statistical methods, and created visuals for publication.
   * Supervisor: Dr. Emma Sanchez
  
 * September 2013 - May 2017: Associate Director, CSU GIS Site License Administrator
   * San Francisco State University, Institute for Geographic Information Science
-  * Duties included: 
+  * Duties included: I performed GIS research activities, coordinated continuing education classes, and provided software licensing and training support.
   * Supervisor: Dr. Jerry Davis
   
 Skills
